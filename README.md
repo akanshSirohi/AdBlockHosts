@@ -1,0 +1,2 @@
+# AdBlockHosts
+AdBlock Host Files
